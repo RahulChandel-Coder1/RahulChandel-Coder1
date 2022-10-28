@@ -32,3 +32,21 @@
   <a href="mailto:rahulchandel2824@gmail.com@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   
 </div>
+
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=rajesh-biswasa&show_icons=true&theme=dark&locale=en" alt="rajesh-biswasa" /></td>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajesh-biswasa&theme=dark" alt="rajesh-biswas" /></td>
+  
+  </tr>
+</table>
+
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RahulChandel-Coder1&show_icons=true&theme=dark&locale=en&layout=compact" alt="RahulChandel-Coder1" />
+  </div>
+<!--   GitHub stats graph -->
+<h2 align="left"><i>📈 GitHub Activity Graph:</i></h2>
+   <img src="https://activity-graph.herokuapp.com/graph?username=RahulChandel-Coder1&theme=github" />
