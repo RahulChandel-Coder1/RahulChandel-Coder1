@@ -36,7 +36,7 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=rajesh-biswasa&show_icons=true&theme=dark&locale=en" alt="rajesh-biswasa" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=RahulChandel-Coder1&show_icons=true&theme=dark&locale=en" alt="RahulChandel-Coder1" /></td>
     <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RahulChandel-Coder1&theme=dark" alt="RahulChandel-Coder1" /></td>
   
   </tr>
