@@ -5,7 +5,7 @@
 - 🎓 I graduated form Graphic Era University Dehradun,Uttarakhand (MCA,Master's Computer Application, Batch of 2021).
 -  <img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" /> Hard working.
 -  🌱 Learning Never Stops 🚀
-- 👨‍💻 Check out my personal portfolio : **<a href="https://rahulchandel-coder1.github.io/RahulChandel.github.io/" target="_blank">Portfolio</a>**
+- 👨‍💻 Check out my personal portfolio : **<a href="[https://rahulchandel-coder1.github.io/RahulChandel.github.io/](https://rahulchandel-coder1.github.io/)" target="_blank">Portfolio</a>**
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajesh-biswasa&label=Profile%20views&color=0e75b6&style=flat" alt="biswasraj" /> </p>
