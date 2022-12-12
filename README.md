@@ -2,6 +2,11 @@
 ![alt README header](https://raw.githubusercontent.com/dahhd/dahhd/master/assert/my_header_.png)
 
 ## Hi there 👋, l'm Rahul Chandel
+
+
+
+ <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=I+am+a+Software+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Java+Backend+Developer+%E2%9A%99%EF%B8%8F" alt="Rahul Chandel" width="650" height="55">
+
 - 🎓 I graduated form Graphic Era University Dehradun,Uttarakhand (MCA,Master's Computer Application, Batch of 2021).
 -  <img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" /> Hard working.
 -  🌱 Learning Never Stops 🚀
